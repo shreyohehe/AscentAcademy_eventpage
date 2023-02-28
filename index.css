@@ -19,7 +19,6 @@
 html {
     font-size: 100%;
     overflow-x: hidden;
-    scroll-padding-top: 7rem;
     scroll-behavior: smooth;
 }
 
@@ -307,19 +306,6 @@ a:hover{
 
 
 
-/* .btn {
-    font-size: 1.3rem;
-    color: white;
-    cursor: pointer;
-    background-color: rgb(32, 32, 32);
-     width: 0; 
-    padding-right: 1.5rem;
-     display: none; 
-   
-}  */
-/* .btn:hover{
-    color: rgb(231, 240, 240);
-} */
 
 
 @media (max-width:991px) {
@@ -335,26 +321,4 @@ a:hover{
 
 }
 
-@media (max-width:768px) {
-    /* .btn {
 
-        display: initial;
-    }
-    .dropdown-menu{
-        background: #333;
-    }
-    .dropdown-item{
-        font-size: 2rem;
-        color: white;
-        padding:1.3rem;
-        margin:1.3rem;
-        background-color: rgb(24, 24, 24);
-
-    } */
-
-
-
-
-
-
-}
